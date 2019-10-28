@@ -1,0 +1,24 @@
+{
+  "name": "phasercourse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatev-avalyan/PhaserCourses.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tatev-avalyan/PhaserCourses/issues"
+  },
+  "homepage": "https://github.com/tatev-avalyan/PhaserCourses#readme",
+  "description": ""
+}
