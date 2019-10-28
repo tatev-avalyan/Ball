@@ -1,1 +1,2 @@
-import './PhaserCourse/index'
+// import './PhaserCourse/index'
+import './PhaserCourse/userInput'
